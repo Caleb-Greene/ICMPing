@@ -1,6 +1,10 @@
 # ICMPing - v1.1.0
 ICMPing is a lightweight, open-sourced tool designed to send and analyze ICMP ping requests to IPv4 & IPv6 addresses, making network diagnostics simple and easy. 
 
+
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Caleb-Greene/ICMPing/total?style=for-the-badge&color=029cff) ![GitHub Release](https://img.shields.io/github/v/release/Caleb-Greene/ICMPing?style=for-the-badge&color=029cff)
+
+
 ## Preview
 ![DEMO1](https://github.com/user-attachments/assets/e6787dd8-d470-460e-8d4b-ff44035ee5c1)
 ![DEMO2](https://github.com/user-attachments/assets/b361ade2-b666-4b1d-9211-372410095d03)
